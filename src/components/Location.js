@@ -1,6 +1,8 @@
-// Step-1
-// npm install --save react-native-location  OR  yarn add react-native-location
-// pod install
+/* 
+Step-1
+npm install --save react-native-location  OR  yarn add react-native-location
+pod install
+*/
 
 import React, { Component } from 'react';
 import {
@@ -110,7 +112,7 @@ export default class Location extends Component {
 
         return (
             <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-                <TouchableOpacity onPress={() => NativeModules.LocationModule.LocationPermission()}>
+                <TouchableOpacity>
                     <Text>Latitute:: {this.state.latitute}</Text>
                 </TouchableOpacity>
                 <Text>Longitude:: {this.state.longitute}</Text>
