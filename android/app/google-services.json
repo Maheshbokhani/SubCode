@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504878119854",
+    "firebase_url": "https://subcode-8b32a.firebaseio.com",
+    "project_id": "subcode-8b32a",
+    "storage_bucket": "subcode-8b32a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504878119854:android:881d8cc3a8a81accc9a63f",
+        "android_client_info": {
+          "package_name": "com.subcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504878119854-0ah1ral2oue3b0kgpebp4b1310ihg4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwXfNSy5lQGycgXU0ZEqblJ1SgnF8EfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504878119854-0ah1ral2oue3b0kgpebp4b1310ihg4pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -103,6 +103,8 @@ target 'Subcode' do
   
   
 
+  pod 'RNPermissions', :path => '../node_modules/react-native-permissions'
+
   target 'SubcodeTests' do
     inherit! :complete
     # Pods for testing

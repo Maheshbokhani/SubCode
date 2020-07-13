@@ -3,7 +3,7 @@
  */
 
 import { AppRegistry } from 'react-native';
-import App from './src/components/Permissions';
+import App from './src/components/Speedometer';
 import { name as appName } from './app.json';
 
 AppRegistry.registerComponent(appName, () => App);
