@@ -3,10 +3,10 @@
 
 ## 1.Install React Native 
 
-   $ npm install -g react-native
+    $ npm install -g react-native
 
 
-## 2.Create React Project
+## 2.Create React Native Project
 
     $ react-native init <Project name>
 
@@ -71,7 +71,7 @@ some changes in package.json
     $ npm start
 
 
-## 8.Run app in Android or Web
+## 8.Run app in Android or iOS
 some changes in package.json
 
 "scripts": {
