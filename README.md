@@ -3,10 +3,10 @@
 
 ## 1.Install React Native 
 
-   $ npm install -g react-native
+    $ npm install -g react-native
 
 
-## 2.Create React Project
+## 2.Create React Native Project
 
     $ react-native init <Project name>
 
