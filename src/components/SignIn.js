@@ -1,6 +1,6 @@
 
 import React from "react"
-import { StyleSheet, Text, View, Dimensions, TextInput, TouchableOpacity, Alert } from "react-native"
+import { StyleSheet, Text, View, Dimensions, TextInput, TouchableOpacity, Alert, Platform } from "react-native"
 
 
 class App extends React.Component {
@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
         elevation: 8,
     },
     container: {
-        backgroundColor: 'lightblue',
+        backgroundColor: Platform.OS == 'web' ? 'lightblue' : 'lightyellow',
         height: Dimensions.get('window').height,
         alignItems: 'center',
         justifyContent: 'center',
