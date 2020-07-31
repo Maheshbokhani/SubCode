@@ -71,7 +71,7 @@ some changes in package.json
     $ npm start
 
 
-## 8.Run app in Android or Web
+## 8.Run app in Android or iOS
 some changes in package.json
 
 "scripts": {
